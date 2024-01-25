@@ -1,0 +1,12 @@
+#griglia{
+	-fx-hgap:20;
+	-fx-vgap:20;
+	-fx-padding:10, 10, 10, 10;
+}
+#bottone{
+	-fx-text-fill:red;
+	-fx-font-weight:bold;
+}
+.label{
+	-fx-font-weight:bold;
+}
