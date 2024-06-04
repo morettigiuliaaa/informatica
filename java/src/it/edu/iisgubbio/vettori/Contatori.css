@@ -1,0 +1,29 @@
+#titolo{
+	-fx-font: italic bold 12pt "Tahoma";
+}
+#minore{
+	-fx-font: italic bold 11pt "Tahoma";
+}
+#maggiore{
+	-fx-font: italic bold 11pt "Tahoma";
+	-fx-text-fill: green;
+}
+#punteggio{
+	-fx-font: italic bold 11pt "Tahoma";
+}
+.label{
+	-fx-font: italic bold 10pt "Tahoma";
+}
+.button{
+	-fx-font: italic bold 10pt "Tahoma";
+	-fx-background-color: #c0c0c0;
+}
+.text-field{
+	-fx-font: italic bold 10pt "Tahoma";
+}
+#bkcolor{
+	-fx-background-color: red;
+}
+#bkcolorDue{
+	-fx-background-color: green;
+}

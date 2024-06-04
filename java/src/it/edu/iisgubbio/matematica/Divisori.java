@@ -34,7 +34,7 @@ public class Divisori extends Application {
 		Divisori.setId("bottone");
 		Divisori.setOnAction(e->esegui());
 		Divisori.setMinWidth(320);
-		Scene scena = new Scene(griglia);
+		Scene scena = new Scene(griglia,800,600);
 		finestra.setTitle("Divisori!");
 		scena.getStylesheets().add("it/edu/iisgubbio/matematica/Divisori.css");
 	    finestra.setScene(scena);

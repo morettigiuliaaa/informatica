@@ -60,7 +60,7 @@ public class Barra extends Application{
 		}
 		eRisultato.setText(parola);
 		}
-public static void main(String args[]){
-    launch();
-  }
-}
+	public static void main(String[] args) {
+		launch();
+	  }
+	}

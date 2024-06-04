@@ -1,4 +1,4 @@
-package it.edu.iisgubbio.animazioni;
+ package it.edu.iisgubbio.animazioni;
 import javafx.animation.Animation;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
